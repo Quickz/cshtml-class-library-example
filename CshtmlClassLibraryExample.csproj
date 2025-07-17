@@ -12,6 +12,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\SharedServices\SharedServices.csproj" />
+    <ProjectReference Include="..\SharedViews\SharedViews.csproj" />
   </ItemGroup>
 
 </Project>

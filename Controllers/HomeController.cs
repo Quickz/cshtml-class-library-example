@@ -18,7 +18,7 @@ namespace CshtmlClassLibraryExample.Controllers
             return View();
         }
 
-        public IActionResult Privacy()
+        public IActionResult SharedView()
         {
             return View();
         }
